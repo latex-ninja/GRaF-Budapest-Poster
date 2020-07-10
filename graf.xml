@@ -1,0 +1,23 @@
+<TEI>
+<text>
+<div canonicalRef="Phaedr.-:1,5" type="text">
+<head>Phaedr. 1,5</head>
+
+<div type="originaltext">
+<head>Vacca et
+<hi type="Vokabelangabe">capella
+<note type="Vokabelangabe">capella,-ae f.: Ziege</note>
+</hi>, ouis et leo.
+</head>
+
+<div type="Abschnitt/Sinneinheit">
+<head type="Gliederung">Promythion (1-2)</head>
+
+<lg xml:lang="la">
+<l met="u-|u-|u//-|u/-|u-|ux" n="1" real="#senar">
+Numquam est
+<hi rend="Vokabelangabe">fidelis<note type="Vokabelangabe"><seg xml:lang="la">fidelis,-e</seg>: verlässlich (siehe auch: <seg xml:lang="la">fides</seg>)</note></hi>
+cum potente <hi rend="Sacherklärung">societas<note type="Sacherklärung">
+<seg xml:lang="la">societas,-atis</seg>f.: Als <seg xml:lang="la">societas</seg> im römischen Rechtssystem verstand man eine Bündnisgemeinschaft, deren Gewinne und Verluste, falls nicht anders vereinbart, gleichmäßig auf alle Beteiligten Parteien aufgeteilt wurden. [...] werden vor Eintritt der <seg xml:lang="la">socii</seg> in die <seg xml:lang="la">societas</seg> beschlossen (vgl. <ref target="#Iustin.-inst.:3,25,2">Iustin. inst. 3,25,2</ref>).</note></hi>:
+</l></lg>
+</div></div></text></TEI>
